@@ -1,0 +1,33 @@
+_repo: La-femme-auteur-tome-2-2--13-ou-les-inconv-niens-de-la-c-l-brit-_36447
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: Dufrénoy, Mme.
+    aliases:
+    - Dufrénoy, Adélaïde Gillette Billet
+    - Dufrenoy, Adelaide Gillette Billet
+    birthdate: 1765
+    deathdate: 1825
+    gutenberg_agent_id: '38245'
+    url: http://www.gutenberg.org/2009/agents/38245
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Ad%C3%A9la%C3%AFde-Gillette_Dufr%C3%A9noy
+    - http://en.wikipedia.org/wiki/Ad%C3%A9la%C3%AFde_Dufr%C3%A9noy
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: FR Femmes
+gutenberg_issued: '2011-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36447'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: La femme auteur; ou, les inconvéniens de la célébrité, tome II
+url: http://www.gutenberg.org/ebooks/36447
