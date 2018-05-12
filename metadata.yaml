@@ -17,6 +17,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36447#La-femme-auteur-tome-2-2--13-ou-les-inconv-niens-de-la-c-l-brit-
 gutenberg_bookshelf: FR Femmes
 gutenberg_issued: '2011-06-17'
 gutenberg_type: Text
